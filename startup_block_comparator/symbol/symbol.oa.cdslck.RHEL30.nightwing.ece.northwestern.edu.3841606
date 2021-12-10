@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      ajm3489
+HostName                       nightwing.ece.northwestern.edu
+ProcessIdentifier              3841606
+ProcessCreationTime_UTC        1639083782
+ProcessCreationTime_Readable   Thu Dec  9 15:03:02 2021 CST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/ajm3489/393/TEG/virtuoso/TEG/startup_block_comparator/symbol/symbol.oa.cdslck
+TimeEditLocked                 Thu Dec  9 16:10:20 2021 CST
